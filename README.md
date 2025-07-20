@@ -8,15 +8,15 @@
 
 ### 🚀 About Me
 
-- 🌟 Working on **Generative AI** and **Web/Mobile App Development**
-- 🧑‍💻 Languages used at work: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-5391FE?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- 📚 Currently learning: ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+- 🌟 Working on **Backend**, **Generative AI** and **Web/Mobile App Development**
+- 🧑‍💻 Languages used at work: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-5391FE?style=flat&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- 📚 Currently learning: ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
 
 ---
 
 ### 🛠️ Things I Love
 
-- **Compiler Checks**: Rust 🔥🔥, Typescript 😌, JavaScript, and Python 🥹
+- **Compiler Checks**: Rust/Go/Swift/Kotlin 🔥🔥, Typescript 😌, JavaScript, and Python 🥹
 - **Test Cases**: Ensuring my refactoring doesn't break anything
 - **Documentation**: Up-to-date and easy to follow
 
@@ -24,9 +24,9 @@
 
 ### 💻 Tech Stack
 
-- **Languages**: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Frameworks**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-- **DevOps**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+- **Languages**:  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-5391FE?style=flat&logo=gnu-bash&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Frameworks**: ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- **DevOps**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -47,6 +47,8 @@ Like you can read a person from the books they read.
 - [x] Refactoring
 - [x] The Pragmatic Programmer
 - [x] Clean Code
+- [x] Functional Design Principles, Patterns, And Practices
+- [x] Design Patterns: Element Of Reusable Object-Oriented Software
 - [ ] The Clean Coder
 - [ ] Working Effectively with Legacy Code
 
