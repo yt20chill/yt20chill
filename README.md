@@ -25,7 +25,7 @@
 
 ### 💻 Tech Stack
 
-- **Languages**:  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-5391FE?style=flat&logo=gnu-bash&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- **Languages**: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-5391FE?style=flat&logo=gnu-bash&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Frameworks**: ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 - **DevOps**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
@@ -50,12 +50,11 @@ Like you can read a person from the books they read.
 - [x] Clean Code
 - [x] Functional Design Principles, Patterns, And Practices
 - [x] Design Patterns: Element Of Reusable Object-Oriented Software
-- [ ] The Clean Coder
+- [x] The Clean Coder
 - [ ] Working Effectively with Legacy Code
 
 ---
 
 ### 🌐 Connect with Me
 
-{"status": 404, reason: "NotFound",  "message": "Sorry but this guy doesn't have any social media accounts... what a pity."}
-
+{"status": 404, reason: "NotFound", "message": "Sorry but this guy doesn't have any social media accounts... what a pity."}
